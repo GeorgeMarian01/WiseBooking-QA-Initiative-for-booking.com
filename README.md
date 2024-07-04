@@ -7,9 +7,5 @@ There were used tools such as Postman for API Testing, JIRA for bug tracking and
 
 As a result of our rigorous testing process, we identified various issues and reported them to the Booking.com team. This project not only enhanced my technical skills but also improved my ability to collaborate effectively and adapt to project priorities and needs.
 
-
-
-
-
 ![Logo](https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg)
 
