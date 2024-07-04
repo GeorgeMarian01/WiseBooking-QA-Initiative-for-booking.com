@@ -1,0 +1,1 @@
+# WiseBooking-QA-Initiative-for-booking.com
