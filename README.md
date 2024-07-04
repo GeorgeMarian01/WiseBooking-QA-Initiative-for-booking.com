@@ -1,4 +1,4 @@
-# WiseBooking: QA Initiative for booking.com
+# About the project
 During my software testing training at ITSchool, I contributed to a project focused on testing the Booking.com platform. Under the guidance of my mentor, Radu Nițuc, a QA industry veteran with over 10 years of experience, I implemented and applied real-world best practices during the project.
 
 The project primarily consisted of six user stories covering basic functionalities such as registration, account deletion, password reset, booking cancellation and sign in. During test design and execution, I conducted various test types, including functional, integration, system, and user acceptance testing.
