@@ -17,3 +17,8 @@ As a result of our rigorous testing process, we identified various issues and re
 - ✅ [WB-10 Forgot password](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-10.pdf)
 - ✅ [WB-11 Cancel booking](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-11.pdf)
 - ✅ [WB-12 Reset password](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-12.pdf)
+
+## Test sets
+- ☑️ [WB-158](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-158.pdf)
+- ☑️ [WB-88](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-88.pdf) 
+- ☑️ [WB-67](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-67.pdf)
