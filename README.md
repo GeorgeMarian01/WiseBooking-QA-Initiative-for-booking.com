@@ -10,7 +10,6 @@ As a result of our rigorous testing process, we identified various issues and re
 ![Logo](https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg)
 
 ## User stories
-
 - ✅ [WB-6 Registration](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-6.pdf)
 - ✅ [WB-8 Account deletion](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-8.pdf)
 - ✅ [WB-9 Sign in](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-9.pdf)
@@ -22,3 +21,4 @@ As a result of our rigorous testing process, we identified various issues and re
 - ☑️ [WB-158](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-158.pdf)
 - ☑️ [WB-88](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-88.pdf)
 - ☑️ [WB-67](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-67.pdf)
+- ☑️ [WB-27](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-27.pdf)
