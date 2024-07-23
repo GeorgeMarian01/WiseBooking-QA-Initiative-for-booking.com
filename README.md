@@ -22,3 +22,4 @@ As a result of our rigorous testing process, we identified various issues and re
 - ☑️ [WB-88](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-88.pdf)
 - ☑️ [WB-67](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-67.pdf)
 - ☑️ [WB-27](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-27.pdf)
+- ☑️ [WB-111](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-111.pdf)
