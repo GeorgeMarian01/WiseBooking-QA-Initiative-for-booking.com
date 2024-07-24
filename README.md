@@ -10,7 +10,7 @@ As a result of our rigorous testing process, we identified various issues and re
 The WiseBooking project is available on the Atlassian Jira platform.
 
 ```bash
-1 - Access the project via this link: https://gmarianlupu.atlassian.net/jira/software/c/projects/WB/boards/10
+1 - Access project link: https://gmarianlupu.atlassian.net/jira/software/c/projects/WB/boards/10
 2 - Log in with your Atlassian account.
 3 - Join the organization.
 4 - If you encounter any errors, refresh the page until it loads successfully.
