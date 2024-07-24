@@ -37,3 +37,12 @@ As a result of our rigorous testing process, we identified various issues and re
 - ⭕ [WB-185](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-185.pdf) - Phone field displays an incorrect error message when an invalid number is submitted
 - ⭕ [WB-187](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-187.pdf) - User account tab and menu persist despite completing the account deletion process
 - ⭕ [WB-192](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-192.pdf) - Text input field stops accepting additional text once 5 numbers have been entered
+
+## Tools used
+🔶 [Project management & Bug tracking with **Jira**](https://www.atlassian.com/software/jira)
+
+🔶 [Test case management with **Xray**](https://www.getxray.app/)
+
+🔶 [API Testing with **Postman**](https://www.postman.com/)
+
+🔶 [Export documentation with **Better PDF Exporter**](https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?tab=overview&hosting=cloud)
