@@ -35,3 +35,4 @@ As a result of our rigorous testing process, we identified various issues and re
 
 ## Bugs
 - ⭕ [WB-185](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-185.pdf)
+- ⭕ [WB-187](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-187.pdf)
