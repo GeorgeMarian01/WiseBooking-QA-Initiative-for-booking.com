@@ -34,6 +34,6 @@ As a result of our rigorous testing process, we identified various issues and re
 - ▶️ [WB-188](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-188.pdf)
 
 ## Bugs
-- ⭕ [WB-185](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-185.pdf) - **Phone field displays an incorrect error message when an invalid number is submitted**
-- ⭕ [WB-187](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-187.pdf) - **User account tab and menu persist despite completing the account deletion process**
-- ⭕ [WB-192](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-192.pdf) - **Text input field stops accepting additional text once 5 numbers have been entered**
+- ⭕ [WB-185](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-185.pdf) - Phone field displays an incorrect error message when an invalid number is submitted
+- ⭕ [WB-187](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-187.pdf) - User account tab and menu persist despite completing the account deletion process
+- ⭕ [WB-192](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-192.pdf) - Text input field stops accepting additional text once 5 numbers have been entered
