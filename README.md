@@ -1,4 +1,4 @@
-# About the project
+# ℹ️ About the project
 During my software testing training at ITSchool, I contributed to a project focused on testing the Booking.com platform. Under the guidance of my mentor, Radu Nițuc, a QA industry veteran with over 10 years of experience, I implemented and applied real-world best practices during the project.
 
 The project primarily consisted of six user stories covering basic functionalities such as registration, account deletion, password reset, booking cancellation and sign in. During test design and execution, I conducted various test types, including functional, integration, system, and user acceptance testing.
@@ -18,7 +18,7 @@ As a result of our rigorous testing process, we identified various issues and re
     
 ![Logo](https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg)
 
-## User stories
+## 📄 User stories
 - ✅ [WB-6 Registration](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-6.pdf)
 - ✅ [WB-8 Account deletion](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-8.pdf)
 - ✅ [WB-9 Sign in](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-9.pdf)
@@ -26,7 +26,7 @@ As a result of our rigorous testing process, we identified various issues and re
 - ✅ [WB-11 Cancel booking](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-11.pdf)
 - ✅ [WB-12 Reset password](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-12.pdf)
 
-## Test sets
+## 🧪 Test sets
 - ☑️ [WB-158](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-158.pdf)
 - ☑️ [WB-88](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-88.pdf)
 - ☑️ [WB-67](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-67.pdf)
@@ -34,7 +34,7 @@ As a result of our rigorous testing process, we identified various issues and re
 - ☑️ [WB-111](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-111.pdf)
 - ☑️ [WB-146](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-146.pdf)
 
-## Test executions
+## 🔦 Test executions
 - ▶️ [WB-190](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-190.pdf)
 - ▶️ [WB-186](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-186.pdf)
 - ▶️ [WB-189](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-189.pdf)
@@ -42,12 +42,12 @@ As a result of our rigorous testing process, we identified various issues and re
 - ▶️ [WB-191](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-191.pdf)
 - ▶️ [WB-188](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-188.pdf)
 
-## Bugs
+## 🪲 Bugs
 - ⭕ [WB-185](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-185.pdf) - Phone field displays an incorrect error message when an invalid number is submitted
 - ⭕ [WB-187](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-187.pdf) - User account tab and menu persist despite completing the account deletion process
 - ⭕ [WB-192](https://github.com/GeorgeMarian01/WiseBooking-QA-Initiative-for-booking.com/blob/main/Documentation/WB-192.pdf) - Text input field stops accepting additional text once 5 numbers have been entered
 
-## Tools used
+## 🔨 Tools used
 🔶 [Project management & Bug tracking with **Jira**](https://www.atlassian.com/software/jira)
 
 🔶 [Test case management with **Xray**](https://www.getxray.app/)
